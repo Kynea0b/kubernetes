@@ -12,7 +12,8 @@
 | kube scheduler | Nodeを監視し、コンテナを配置する最適なNodeを選択する |
 | kube controller manager | リソースを制御するコントローラーを実行する |
 
-
+引用
+[kubernetesのまとめ](https://qiita.com/ykyk1226/items/53869878fd0679b0944b)
 
 ```
 pod name: etcd-minikube.
