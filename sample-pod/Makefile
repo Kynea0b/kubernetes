@@ -8,5 +8,9 @@ create-pod: start
 show: start
 	kubectl get pod
 
+crate-echo:
+	kubectl create deployment hello-minikube --image=registry.k8s.io/echoserver:1.10
+
+
 stop:
 	minikube stop
