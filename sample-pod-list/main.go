@@ -51,6 +51,7 @@ func main() {
 
 	for _, pod := range pods.Items {
 		fmt.Printf("pod name: %s.\n", pod.Name)
+
 	}
 
 	fmt.Printf("There are %d pods in the cluster\n", len(pods.Items))

@@ -8,6 +8,10 @@ minikubeへのサンプルアプリケーションのデプロイ
 [Hello Minikube](https://kubernetes.io/ja/docs/tutorials/hello-minikube/)
 
 ## Lesson1
+
+`http://127.0.0.1:56747/`
+
+## おまけ
 MinikubeのサポートするKubernetesの機能:
 
 DNS
