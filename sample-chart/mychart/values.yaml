@@ -121,3 +121,9 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+#追加
+favoriteDrink: coffee
+favorite:
+  drink: coffee
+  food: pizza

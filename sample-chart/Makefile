@@ -14,3 +14,6 @@ show:
 
 show2:
 	helm get manifest clunky-serval
+
+set-value:
+	helm install solid-vulture ./mychart --dry-run --debug --set favoriteDrink=slurm
